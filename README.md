@@ -1,4 +1,4 @@
-A sample portfolio I made with THREE JS and VIteJS
+A sample portfolio I made with THREE JS, ReactJS and React-Three-Fibre
 
 How to run it:-
 
